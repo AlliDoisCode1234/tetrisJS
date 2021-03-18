@@ -2,7 +2,7 @@
 
 **Link to project:** https://allidoiscode1234.github.io/tetrisJS/
 
-![alt tag](https://drive.google.com/file/d/141gt1sF9ahTvF1ms36u6VOxKWmUX1ViX/view)
+![TetrisJS Demo](https://drive.google.com/file/d/141gt1sF9ahTvF1ms36u6VOxKWmUX1ViX/view)
 
 ## How It's Made:
 
